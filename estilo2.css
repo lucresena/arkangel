@@ -1,0 +1,209 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@100&display=swap'); @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap'); @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Open+Sans+Condensed:wght@300&display=swap'); @import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@200&display=swap'); 
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+main{
+	width: 90%;
+	height: 700px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #6b8399;
+}
+
+header{
+	width: 100%;
+	height: 62px;
+	background-color: rgba(255, 255, 255, .7);
+}
+
+section{
+	width: 100%;
+	height: 583px;
+}
+
+footer{
+	width: 100%;
+	height: 55px;
+	background-color: rgba(255, 255, 255, .7);
+}
+
+body{
+	background-color: #e7f1ff;
+}
+
+.logo{
+	float: left;
+	margin-left: 20px;
+	margin-top: -15px;
+}
+
+#menu li{
+	display: inline;
+}
+
+#menu li a{
+	font-size: 19px;
+	text-decoration: none;
+	float: right;
+	padding: 10px;
+	margin-top: 10px;
+	margin-right: 20px;
+	color: #333333;
+	font-family: 'Work Sans', sans-serif;
+}
+
+#menu p{
+	font-size: 19px;
+	text-decoration: none;
+	float: left;
+	padding-top: 22px;
+	color: #333333;
+	font-family: 'Work Sans', sans-serif;
+}
+
+.yo{
+	font-size: 18px;
+	font-family: acumin-pro-semi-condensed, sans-serif;
+	font-style: normal;
+	font-weight: 300;
+	color: #ffffff;
+	text-align: center;
+	padding-top: 220px;
+	padding-bottom: 1.5%;
+}
+
+.prod{
+	font-size: 60px;
+	font-family: 'Work Sans', sans-serif;
+	color: #ffffff;
+	text-align: center;
+	padding-bottom: 1.5%;
+}
+
+.nat{
+	font-size: 18px;
+	font-family: 'Bebas Neue', cursive;
+	color: #ffffff;
+	text-align: center;
+}
+
+#pie{
+	font-size: 18px;
+	font-family: 'Bebas Neue', cursive;
+	margin-left: 48%;
+	padding-top: 23px;
+}
+
+#pie a{
+	text-decoration: none;
+	color: #333333;
+}
+
+.titulo{
+	font-family: 'Bebas Neue', cursive;
+	padding-left: 2%;
+	padding-top: 3%;
+}
+.titulo2{
+	font-family: 'Bebas Neue', cursive;
+	padding-top: 3%;
+	text-align: center;
+}
+
+.mapa{
+	padding-left: 15.5%;
+	padding-top: 9%;
+	max-width: 100%;
+}
+
+#tipografia{
+	text-align: center;
+}
+
+.tipografia_uno{
+	width: 95%;
+	font-size: 18px;
+	color: #333333;
+	padding-left: 3%;
+}
+
+.tipografia_uno h2{
+	font-family: acumin-pro-semi-condensed, sans-serif;
+	font-size: 20px;
+}
+
+.tipografia_uno p{
+	font-size: 18px;
+	font-family: acumin-pro-semi-condensed, sans-serif;
+}
+
+.tipografia_dos{
+	width: 95%;
+	font-size: 18px;
+	color: #333333;
+	padding-left: 3%;
+}
+
+.tipografia_dos h2{
+	font-family: 'Work Sans', sans-serif;
+	font-size: 20px;
+}
+
+.tipografia_dos p{
+	font-size: 18px;
+	font-family: 'Work Sans', sans-serif;
+}
+
+.tipografia_tres{
+	width: 95%;
+	font-size: 18px;
+	color: #333333;
+	padding-left: 3%;
+}
+
+.tipografia_tres h2{
+	font-family: 'Bebas Neue', cursive;
+	font-size: 20px;
+}
+
+.tipografia_tres p{
+	font-size: 18px;
+	font-family: 'Bebas Neue', cursive;
+
+}
+
+#colores{
+	text-align: center;
+}
+
+#colores li{
+	display: inline;
+}
+
+.galeria{
+	clear: left;
+	margin-left: 6%;
+}
+
+.galeria_2{
+	margin-left: 6%;
+	margin-top: 22%;
+}
+
+.galeria_img{
+	float: left;
+	padding-left: 2%;
+	padding-right: 2%;
+	margin-top: 1%;
+}
+
+iframe{
+	width: 68%;
+	height: 75%;
+	margin-left: 15%;
+	margin-top: 3%;
+}
